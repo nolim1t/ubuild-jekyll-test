@@ -7,7 +7,6 @@ sections:
 - type: document
   path: menu
   label: Menu
-  match: "**/*"
   read_only: true
 - type: document
   path: FORESTRY-README.md
